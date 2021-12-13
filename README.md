@@ -1,6 +1,11 @@
+
 CRM Project Group 3
 ---
 David Shin
 Hector Barajas
 Elif Erik
-Gerardo Montalvo
+Gerarado Montalvo
+--
+
+Mock up group project using bootstrap
+
