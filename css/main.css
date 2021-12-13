@@ -28,7 +28,11 @@
     font-size: small;
 }
 
+.item1{
+    border: 2px solid grey;
+  border-radius: 25px;
 
+}
 
 
 

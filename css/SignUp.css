@@ -19,8 +19,43 @@ body {
 
 }
 
+.facebook{
+  border: 2px solid gray;
+  border-radius: 60%;
+  width: 60px;
+  height: auto;
+  font-size:2.5em
+  ;
+}
+.twitter{  border: 2px solid gray;
+  border-radius: 60%;
+  width: 60px;
+  height: auto;
+  font-size:2.5em
+}
 
+.google{  border: 2px solid gray;
+  border-radius: 60%;
+  width: 60px;
+  height: auto;
+  font-size:2.5em
 
+}
+
+.linkedin{
+  border: 2px solid gray;
+  border-radius: 60%;
+  width: 60px;
+  height: auto;
+  font-size:2.5em
+}
+.twitter{
+  border: 2px solid gray;
+  border-radius: 60%;
+  width: 60px;
+  height: auto;
+  font-size:2.5em
+}
 
 
 .form-container {
